@@ -114,3 +114,6 @@ generic-claude-kit/
 - Issues / báo lỗi: GitHub Issues
 - Thảo luận: GitHub Discussions
 - Đóng góp template / Skill mới: Pull Request
+
+#Disclaimer (Miễn trừ trách nhiệm)
+Dự án này không thuộc sở hữu hoặc được ủy quyền bởi Anthropic. Đây là tài liệu hướng dẫn từ cộng đồng.
