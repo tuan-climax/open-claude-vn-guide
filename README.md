@@ -62,6 +62,7 @@ generic-claude-kit/
 └── docs/
     ├── CLAUDE_CODE_COMMANDS.md        ← Cheatsheet 30+ slash commands
     ├── CLAUDE_HOWTO_SUMMARY.md        ← MCP, Hooks, Skills guide tóm tắt
+    ├── CLAUDE_MODEL.md                ← Model, Tasks for model
     └── prompt-library/                ← Templates rời theo phòng ban
         ├── xml-templates.md           ← XML prompt templates đầy đủ
         ├── HR_templates.md
